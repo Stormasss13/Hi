@@ -82,3 +82,9 @@ git merge <имя ветки для слияния с текущей>
 ```sh
 git commit -d <имя ветки>
 ```
+
+#Доп материалы:
+
+Сайт для тренировки:
+
+https://learngitbranching.js.org/?locale=ru_RU
